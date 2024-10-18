@@ -1,0 +1,55 @@
+[Version]
+signature="$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur, Scheme.Txt
+AddReg    = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+Scheme.Txt = 10,"%CUR_DIR%"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%cross%,%10%\%CUR_DIR%\%Text%,%10%\%CUR_DIR%\%Hand%,%10%\%CUR_DIR%\%unavailiable%,%10%\%CUR_DIR%\%Vert%,%10%\%CUR_DIR%\%Horz%,%10%\%CUR_DIR%\%Dgn1%,%10%\%CUR_DIR%\%Dgn2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%,%10%\%CUR_DIR%\%person%,%10%\%CUR_DIR%\%pin%"
+
+[Scheme.Cur]
+Normal.cur
+Help.cur
+Working.ani
+Busy.ani
+Text.cur
+Unavailable.cur
+Vertical Resize.ani
+Horizontal Resize.ani
+Diagonal Resize 1.ani
+Diagonal Resize 2.ani
+Move.cur
+Link.cur
+Precision.cur
+Handwriting.cur
+Alternate.cur
+Person.cur
+Pin.cur
+
+[Scheme.Txt]
+
+[Strings]
+CUR_DIR       = "Cursors\BlackCursors"
+SCHEME_NAME   = "Black Cursors"
+pointer       = "Normal.cur"
+help          = "Help.cur"
+work          = "Working.ani"
+busy          = "Busy.ani"
+text          = "Text.cur"
+unavailiable  = "Unavailable.cur"
+vert          = "Vertical Resize.ani"
+horz          = "Horizontal Resize.ani"
+dgn1          = "Diagonal Resize 1.ani"
+dgn2          = "Diagonal Resize 2.ani"
+move          = "Move.cur"
+link          = "Link.cur"
+cross         = "Precision.cur"
+hand          = "Handwriting.cur"
+alternate     = "Alternate.cur"
+person        = "Person.cur"
+pin	      = "Pin.cur"
