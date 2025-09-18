@@ -1,9 +1,30 @@
 * * *
 
-🖱️ Black Cursors
-=================
+<div align="center">
 
-⚠️ Windows Only
+🖱️ Black Cursors
+============================
+
+**A clean black cursor theme for Windows with static and animated designs**  
+💻🖱️⚫✨🎨
+
+![Projekt-Status](https://img.shields.io/badge/Status-Aktiv-brightgreen) ![Lizenz](https://img.shields.io/badge/Lizenz-MIT-blue) ![Version](https://img.shields.io/badge/Version-1.0-orange)
+
+</div>
+
+
+* * *
+
+✨ Authors
+---------
+
+| Name | GitHub | Role | Contact | Contributions |
+| --- | --- | --- | --- | --- |
+| **[Daniel Sichler aka Darexsh](https://github.com/Darexsh)** | [Link](https://github.com/Darexsh?tab=repositories) | Hardware & Firmware Development 🖥️🛠️, Display Integration 🎨 | 📧 [E-Mail](mailto:sichler.daniel@gmail.com) | Concept, Firmware, Display UI, Sensor Integration |
+
+* * *
+
+🚀 About the Project
 ---------------
 
 This repository provides a set of **black mouse cursors** for Windows.  
@@ -63,3 +84,19 @@ Below is the list of all modified cursors:
     
 
 * * *
+
+📜 License
+----------
+
+This project is licensed under the **MIT License** and was developed as an educational project. You are free to use, modify, and distribute the code and schematics as long as you credit the author:
+
+**Copyright (c) 2025 Daniel Sichler aka Darexsh**
+
+Please include the following notice with any use or distribution:
+
+> Developed by Daniel Sichler aka Darexsh. Licensed under the MIT License. See `LICENSE` for details.
+
+The full license is available in the [LICENSE](LICENSE) file.
+
+* * *
+<div align="center"> <sub>Created with ❤️ by Daniel Sichler</sub> </div>
