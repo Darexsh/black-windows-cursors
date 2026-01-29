@@ -20,7 +20,7 @@
 
 | Name | GitHub | Role | Contact | Contributions |
 | --- | --- | --- | --- | --- |
-| **[Daniel Sichler aka Darexsh](https://github.com/Darexsh)** | [Link](https://github.com/Darexsh?tab=repositories) | Windows Theme & Cursor Design 🖱️🎨 | 📧 [E-Mail](mailto:sichler.daniel@gmail.com) | Concept, Cursor Design, Static & Animated Cursors, Installation Guide |
+| **[Darexsh by Daniel Sichler](https://github.com/Darexsh)** | [Link](https://github.com/Darexsh?tab=repositories) | Windows Theme & Cursor Design 🖱️🎨 | 📧 [E-Mail](mailto:sichler.daniel@gmail.com) | Concept, Cursor Design, Static & Animated Cursors, Installation Guide |
 
 * * *
 
